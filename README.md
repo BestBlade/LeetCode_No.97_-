@@ -21,7 +21,6 @@ t = t1 + t2 + ... + tm\
 
       输入：s1 = "", s2 = "", s3 = ""
       输出：true
- 
 
 * 提示：
 
@@ -39,6 +38,6 @@ t = t1 + t2 + ... + tm\
 执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户\
 内存消耗：6.1 MB, 在所有 C++ 提交中击败了91.50%的用户
 
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/interleaving-string
+来源：力扣（LeetCode）\
+链接：https://leetcode-cn.com/problems/interleaving-string \
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
